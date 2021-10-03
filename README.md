@@ -1,13 +1,14 @@
 # Comandos útiles para el uso de la app
 
 Opciones:
-      --help            Muestra ayuda                                 [booleano]
 
-      --version         Muestra número de versión                     [booleano]
+--help            Muestra ayuda                                 [booleano]
 
-  -v, --valor, --valor  Recibe valor para tabla de multiplicar        [número] [requerido]
+--version         Muestra número de versión                     [booleano]
 
-  -l, --listar          Lista tabla de multiplicar   [booleano] [defecto: false]
+-v, --valor, --valor  Recibe valor para tabla de multiplicar        [número] [requerido]
 
-  -h, --hasta           Define el limite de la tabla de multiplicar [número] [defecto: 10]
+-l, --listar          Lista tabla de multiplicar   [booleano] [defecto: false]
+
+-h, --hasta           Define el limite de la tabla de multiplicar [número] [defecto: 10]
                                                           

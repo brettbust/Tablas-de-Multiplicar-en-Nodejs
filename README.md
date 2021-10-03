@@ -1,5 +1,6 @@
 # Comandos útiles para el uso de la app
 
+```
 Opciones:
 
 --help            Muestra ayuda                                 [booleano]
@@ -11,4 +12,5 @@ Opciones:
 -l, --listar          Lista tabla de multiplicar   [booleano] [defecto: false]
 
 -h, --hasta           Define el limite de la tabla de multiplicar [número] [defecto: 10]
-                                                          
+
+```
